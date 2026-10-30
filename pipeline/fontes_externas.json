@@ -1,0 +1,44 @@
+{
+  "_leia": "Únicos números do site que não saem de um arquivo de dados: são declarações oficiais do TSE. Ficam só aqui, com a fonte, e o 03_build.py copia para os JSON do app.",
+  "votosApos17h": {
+    "total": 34393,
+    "entre17e18": 32399,
+    "entre18e19": 1981,
+    "apos19": 13,
+    "fonte": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/eleicoes-2026-mais-de-34-mil-votos-foram-registrados-apos-as-17h-no-2o-turno",
+    "fonteImprensa": "https://www.oliberal.com/politica/tse-34-4-mil-pessoas-votaram-apos-17h-no-segundo-turno-das-eleicoes-1.1187558"
+  },
+  "lideranca": {
+    "_leia": "Horários das mudanças de liderança informados pelo TSE na checagem sobre a 'virada'. CONFERIR na página antes de publicar.",
+    "flavio": "19:45",
+    "lula": "20:25",
+    "fonte": "https://www.justicaeleitoral.jus.br/fato-ou-boato/checagens/2026/e-falso-que-virada-de-votos-no-segundo-turno-seja-impossivel-ou-comprove-fraude-nas-eleicoes"
+  },
+  "checagensTSE": [
+    {
+      "titulo": "Relatório apócrifo distorce dados para sugerir fraude nas Eleições 2026",
+      "orgao": "Justiça Eleitoral · Fato ou Boato",
+      "url": "https://www.justicaeleitoral.jus.br/fato-ou-boato/checagens/2026/relatorio-apocrifo-distorce-dados-para-sugerir-fraude-nas-eleicoes-2026"
+    },
+    {
+      "titulo": "É falso que virada de votos no segundo turno seja impossível ou comprove fraude nas eleições",
+      "orgao": "Justiça Eleitoral · Fato ou Boato",
+      "url": "https://www.justicaeleitoral.jus.br/fato-ou-boato/checagens/2026/e-falso-que-virada-de-votos-no-segundo-turno-seja-impossivel-ou-comprove-fraude-nas-eleicoes"
+    },
+    {
+      "titulo": "Teste de integridade do 2º turno no TSE confirma correspondência entre cédulas e votos nas urnas",
+      "orgao": "TSE · Notícias",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/teste-de-integridade-do-2o-turno-no-tse-confirma-correspondencia-entre-cedulas-e-votos-nas-urnas"
+    }
+  ],
+  "prorrogacao": [
+    {
+      "nome": "Exame: por que o TSE decidiu prorrogar o horário de votação até as 19h",
+      "url": "https://exame.com/brasil/por-que-o-tse-decidiu-prorrogar-o-horario-de-votacao-ate-as-19h/"
+    },
+    {
+      "nome": "InfoMoney: TSE pausa totalização dos votos após Zanin prorrogar votação até as 19h",
+      "url": "https://www.infomoney.com.br/politica/tse-pausa-totalizacao-dos-votos-apos-zanin-prorrogar-votacao-ate-as-19h/"
+    }
+  ]
+}
